@@ -1,4 +1,4 @@
-# MTars Flask API
+# MTCars Flask API
 
 This is an API using simple linear regression to predict mpg using any other remaining variables as predictor in the mtcars.csv.
 
